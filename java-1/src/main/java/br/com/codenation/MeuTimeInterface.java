@@ -6,25 +6,25 @@ import java.util.List;
 
 interface MeuTimeInterface {
 
-    void incluirTime(Long id, String nome, LocalDate dataCriacao, String corUniformePrincipal, String corUniformeSecundario);
+    void incluirTime(Long id, String nome, LocalDate dataCriacao, String corUniformePrincipal, String corUniformeSecundario) throws Exception;
 
-    void incluirJogador(Long id, Long idTime, String nome, LocalDate dataNascimento, Integer nivelHabilidade, BigDecimal salario);
+    void incluirJogador(Long id, Long idTime, String nome, LocalDate dataNascimento, Integer nivelHabilidade, BigDecimal salario) throws Exception;
 
-    void definirCapitao(Long idJogador);
+    void definirCapitao(Long idJogador) throws Exception;
 
-    Long buscarCapitaoDoTime(Long idTime);
+    Long buscarCapitaoDoTime(Long idTime) throws Exception;
 
-    String buscarNomeJogador(Long idJogador);
+    String buscarNomeJogador(Long idJogador) throws Exception;
 
-    String buscarNomeTime(Long idTime);
+    String buscarNomeTime(Long idTime) throws Exception;
 
-    Long buscarJogadorMaiorSalario(Long idTime);
+    Long buscarJogadorMaiorSalario(Long idTime) throws Exception;
 
-    BigDecimal buscarSalarioDoJogador(Long idJogador);
+    BigDecimal buscarSalarioDoJogador(Long idJogador) throws Exception;
 
-    List<Long> buscarJogadoresDoTime(Long idTime);
+    List<Long> buscarJogadoresDoTime(Long idTime) throws Exception;
 
-    Long buscarMelhorJogadorDoTime(Long idTime);
+    Long buscarMelhorJogadorDoTime(Long idTime) throws Exception;
 
     Long buscarJogadorMaisVelho(Long idTime);
 

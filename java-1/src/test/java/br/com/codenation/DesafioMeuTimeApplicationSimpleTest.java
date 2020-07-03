@@ -1,5 +1,6 @@
 package br.com.codenation;
 
+import br.com.codenation.exceptions.IdentificadorUtilizadoException;
 import org.junit.Test;
 
 import java.math.BigDecimal;
