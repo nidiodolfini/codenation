@@ -1,0 +1,349 @@
+Found "C:\Users\nidio\codenation\java-9\.mvn\wrapper\maven-wrapper.jar"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\nidio\codenation\java-9\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to C:\Users\nidio\codenation\java-9\target\test-classes
+[INFO] /C:/Users/nidio/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: C:\Users\nidio\codenation\java-9\src\test\java\com\challenge\suite\ClassTest.java uses unchecked or unsafe operations.
+[INFO] /C:/Users/nidio/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+16:03:02.550 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.598 [main] INFO org.reflections.Reflections - Reflections took 45 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.669 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.675 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.678 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.683 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.686 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.691 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.693 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.698 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.702 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.706 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.709 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.713 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.715 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.719 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.721 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.724 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.725 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.728 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.732 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.736 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.737 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.741 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.742 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.746 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.748 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.752 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.754 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.758 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.760 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.765 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.768 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.772 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.774 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.778 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.780 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.784 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.790 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.794 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.796 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.800 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.804 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.808 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.812 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.817 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.818 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.822 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.824 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.828 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.829 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.833 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.835 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.838 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.839 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.843 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.844 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.848 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.850 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.854 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.856 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.860 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.863 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.867 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.868 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.872 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.873 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.877 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.878 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.883 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.884 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.888 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.889 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.893 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.894 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.898 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.899 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.902 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.903 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.906 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.907 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.910 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.911 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.914 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.915 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.917 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.918 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.920 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.921 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.924 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.926 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.928 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.931 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.933 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.935 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.939 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.940 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.943 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.944 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.947 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.949 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.952 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.953 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.957 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.958 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.962 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.963 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.966 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.967 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.971 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.972 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.975 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.976 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.979 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.980 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.983 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.984 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.987 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.988 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.990 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.991 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:02.995 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:02.996 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.000 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.002 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.005 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.006 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.009 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.011 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.015 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.016 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.019 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.020 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.023 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.024 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.026 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.027 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.030 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.031 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.033 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.034 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.036 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.037 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.039 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.040 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.042 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.043 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.045 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.046 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.049 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.050 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.052 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.053 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.056 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.061 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.063 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.064 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.067 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.067 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.069 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.070 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.073 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.073 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.076 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.077 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.080 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.081 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.084 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.085 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.088 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.090 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.092 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.094 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.098 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.099 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.102 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.103 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.106 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.107 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.109 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.110 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.113 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.115 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.117 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.119 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.122 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.125 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.128 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.130 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.132 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.133 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.136 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.137 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.141 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.142 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.144 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.145 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.148 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.149 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.151 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.152 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.155 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+16:03:03.156 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/nidio/codenation/java-9/target/classes/
+16:03:03.159 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 23 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.774 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  6.284 s
+[INFO] Finished at: 2020-07-09T16:03:03-03:00
+[INFO] ------------------------------------------------------------------------
